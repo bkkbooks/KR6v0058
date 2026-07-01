@@ -1,0 +1,1016 @@
+canonical_identifier: bkk:krp/KR6v0058/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0058/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 即興自說
+  identifiers:
+    krp: KR6v0058
+    cbeta: ZW05n0046
+    cbeta_old_id: ZW05n0046
+    authorityid: CA0008445
+    json_key: ZW0046
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW05/ZW05n0046.xml
+    old_id: ZW05n0046
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0058_000-ZW.yaml, hash: 'sha256:f3dd48bf86a6820574992053205f78459f33b5560ff7b14abc4c22d672d8e321'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0058_000-ZW.markers.yaml, hash: 'sha256:0272e41510db8080154a421acad55b979fe27b0904570fd1b2622b81ddf2bd6b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-2
+    span:
+    - front
+    - 209
+    - 209
+  label: 譯文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-3
+    span:
+    - front
+    - 211
+    - 211
+  label: 一、菩提品
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-4
+    span:
+    - front
+    - 217
+    - 217
+  label: 稱誦
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-5
+    span:
+    - front
+    - 230
+    - 230
+  label: 一、菩提經一
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-6
+    span:
+    - front
+    - 404
+    - 404
+  label: 二、菩提經二
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-7
+    span:
+    - front
+    - 587
+    - 587
+  label: 三、菩提經三
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-8
+    span:
+    - front
+    - 848
+    - 848
+  label: 四、尼拘陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-9
+    span:
+    - front
+    - 996
+    - 996
+  label: 五、長老經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-10
+    span:
+    - front
+    - 1155
+    - 1155
+  label: 六、迦葉經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-11
+    span:
+    - front
+    - 1316
+    - 1316
+  label: 七、巴瓦經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-12
+    span:
+    - front
+    - 1439
+    - 1439
+  label: 八、戰勝經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-13
+    span:
+    - front
+    - 1669
+    - 1669
+  label: 九、螺髮經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-14
+    span:
+    - front
+    - 1805
+    - 1805
+  label: 十、婆希經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-15
+    span:
+    - front
+    - 2766
+    - 2766
+  label: 本品總攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-16
+    span:
+    - front
+    - 2823
+    - 2823
+  label: 二、目真鄰陀品
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-17
+    span:
+    - front
+    - 2831
+    - 2831
+  label: 一、目真鄰陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-18
+    span:
+    - front
+    - 3058
+    - 3058
+  label: 二、王經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-19
+    span:
+    - front
+    - 3394
+    - 3394
+  label: 三、杖經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-20
+    span:
+    - front
+    - 3540
+    - 3540
+  label: 四、供養經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-21
+    span:
+    - front
+    - 3872
+    - 3872
+  label: 五、居士經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-22
+    span:
+    - front
+    - 4014
+    - 4014
+  label: 六、孕婦經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-23
+    span:
+    - front
+    - 4351
+    - 4351
+  label: 七、獨子經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-24
+    span:
+    - front
+    - 4533
+    - 4533
+  label: 八、蘇波婆沙經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-25
+    span:
+    - front
+    - 5738
+    - 5738
+  label: 九、毗舍佉經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-26
+    span:
+    - front
+    - 5918
+    - 5918
+  label: 十、跋提耶經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-27
+    span:
+    - front
+    - 6448
+    - 6448
+  label: 本品總攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-28
+    span:
+    - front
+    - 6507
+    - 6507
+  label: 三、難陀品
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-29
+    span:
+    - front
+    - 6513
+    - 6513
+  label: 一、業經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-30
+    span:
+    - front
+    - 6634
+    - 6634
+  label: 二、難陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-31
+    span:
+    - front
+    - 7555
+    - 7555
+  label: 三、耶輸闍經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-32
+    span:
+    - front
+    - 8516
+    - 8516
+  label: 四、舍利弗經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-33
+    span:
+    - front
+    - 8619
+    - 8619
+  label: 五、拘律陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-34
+    span:
+    - front
+    - 8725
+    - 8725
+  label: 六、畢陵迦經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-35
+    span:
+    - front
+    - 9067
+    - 9067
+  label: 七、迦葉經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-36
+    span:
+    - front
+    - 9435
+    - 9435
+  label: 八、托鉢經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-37
+    span:
+    - front
+    - 9831
+    - 9831
+  label: 九、技藝經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-38
+    span:
+    - front
+    - 10205
+    - 10205
+  label: 十、觀世經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-39
+    span:
+    - front
+    - 10503
+    - 10503
+  label: 本品總攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-40
+    span:
+    - front
+    - 10559
+    - 10559
+  label: 四、彌凱耶品
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-41
+    span:
+    - front
+    - 10566
+    - 10566
+  label: 一、彌凱耶經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-42
+    span:
+    - front
+    - 11467
+    - 11467
+  label: 二、高慢經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-43
+    span:
+    - front
+    - 11628
+    - 11628
+  label: 三、牧牛人經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-44
+    span:
+    - front
+    - 11993
+    - 11993
+  label: 四、月明經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-45
+    span:
+    - front
+    - 12518
+    - 12518
+  label: 五、象經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-46
+    span:
+    - front
+    - 13163
+    - 13163
+  label: 六、賓頭盧經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-47
+    span:
+    - front
+    - 13384
+    - 13384
+  label: 七、舍利弗經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-48
+    span:
+    - front
+    - 13532
+    - 13532
+  label: 八、孫陀利經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-49
+    span:
+    - front
+    - 14264
+    - 14264
+  label: 九、優波塞那經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-50
+    span:
+    - front
+    - 14450
+    - 14450
+  label: 十、舍利弗經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-51
+    span:
+    - front
+    - 14561
+    - 14561
+  label: 本品總攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-52
+    span:
+    - front
+    - 14622
+    - 14622
+  label: 五、蘇那長老品
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-53
+    span:
+    - front
+    - 14630
+    - 14630
+  label: 一、王經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-54
+    span:
+    - front
+    - 14917
+    - 14917
+  label: 二、短命經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-55
+    span:
+    - front
+    - 15079
+    - 15079
+  label: 三、癩病者經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-56
+    span:
+    - front
+    - 15897
+    - 15897
+  label: 四、兒童經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-57
+    span:
+    - front
+    - 16043
+    - 16043
+  label: 五、布薩經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-58
+    span:
+    - front
+    - 17910
+    - 17910
+  label: 六、蘇那經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-59
+    span:
+    - front
+    - 19137
+    - 19137
+  label: 七、離波多經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-60
+    span:
+    - front
+    - 19269
+    - 19269
+  label: 八、阿難經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-61
+    span:
+    - front
+    - 19507
+    - 19507
+  label: 九、喧嘩經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-62
+    span:
+    - front
+    - 19597
+    - 19597
+  label: 十、槃陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-63
+    span:
+    - front
+    - 19703
+    - 19703
+  label: 本品總攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-64
+    span:
+    - front
+    - 19759
+    - 19759
+  label: 六、生盲品
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-65
+    span:
+    - front
+    - 19765
+    - 19765
+  label: 一、捨壽經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-66
+    span:
+    - front
+    - 20697
+    - 20697
+  label: 二、螺髮外道經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-67
+    span:
+    - front
+    - 21210
+    - 21210
+  label: 三、審思經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-68
+    span:
+    - front
+    - 21306
+    - 21306
+  label: 四、種種外道經（一）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-69
+    span:
+    - front
+    - 22322
+    - 22322
+  label: 五、種種外道經（二）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-70
+    span:
+    - front
+    - 23134
+    - 23134
+  label: 六、種種外道經（三）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-71
+    span:
+    - front
+    - 23982
+    - 23982
+  label: 七、須菩提經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-72
+    span:
+    - front
+    - 24097
+    - 24097
+  label: 八、妓女經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-73
+    span:
+    - front
+    - 24332
+    - 24332
+  label: 九、極度經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-74
+    span:
+    - front
+    - 24440
+    - 24440
+  label: 十、如來現世經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-75
+    span:
+    - front
+    - 24780
+    - 24780
+  label: 本品總攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-76
+    span:
+    - front
+    - 24847
+    - 24847
+  label: 七、小品
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-77
+    span:
+    - front
+    - 24852
+    - 24852
+  label: 一、跋提經（一）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-78
+    span:
+    - front
+    - 24985
+    - 24985
+  label: 二、跋提經（二）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-79
+    span:
+    - front
+    - 25125
+    - 25125
+  label: 三、貪慾經（一）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-80
+    span:
+    - front
+    - 25277
+    - 25277
+  label: 四、貪慾經（二）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-81
+    span:
+    - front
+    - 25398
+    - 25398
+  label: 五、跋提經（三）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-82
+    span:
+    - front
+    - 25596
+    - 25596
+  label: 六、滅愛經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-83
+    span:
+    - front
+    - 25724
+    - 25724
+  label: 七、滅戲論經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-84
+    span:
+    - front
+    - 25806
+    - 25806
+  label: 八、迦旃延經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-85
+    span:
+    - front
+    - 25927
+    - 25927
+  label: 九、井水經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-86
+    span:
+    - front
+    - 26276
+    - 26276
+  label: 十、優填經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-87
+    span:
+    - front
+    - 26496
+    - 26496
+  label: 本品總攝
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-88
+    span:
+    - front
+    - 26555
+    - 26555
+  label: 八、波吒離村人品
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-89
+    span:
+    - front
+    - 26564
+    - 26564
+  label: 一、涅槃經（一）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-90
+    span:
+    - front
+    - 26717
+    - 26717
+  label: 二、涅槃經（二）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-91
+    span:
+    - front
+    - 26823
+    - 26823
+  label: 三、涅槃經（三）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-92
+    span:
+    - front
+    - 26974
+    - 26974
+  label: 四、涅槃經（四）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-93
+    span:
+    - front
+    - 27101
+    - 27101
+  label: 五、純陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-94
+    span:
+    - front
+    - 28473
+    - 28473
+  label: 六、波吒離村人經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-95
+    span:
+    - front
+    - 29948
+    - 29948
+  label: 七、歧路經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-96
+    span:
+    - front
+    - 30264
+    - 30264
+  label: 八、毗捨佉經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-97
+    span:
+    - front
+    - 30790
+    - 30790
+  label: 九、陀驃經（一）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-98
+    span:
+    - front
+    - 30970
+    - 30970
+  label: 十、陀驃經（二）
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0058_ZW_000-mulu-99
+    span:
+    - front
+    - 31120
+    - 31120
+  label: 本品總攝
+  type: mulu
+  level: 1
+hash: sha256:6d0c3f935c288cecfbb838189365ae111264202a8a0bbbd342f91555efc9ba11
