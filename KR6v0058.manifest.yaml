@@ -21,15 +21,15 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0058_000.yaml, hash: 'sha256:25e0399868667ae8784f18ead6a0a1789676130aee1c5adb7adebf66eff9adb8'}
+  - {seq: 0, filename: KR6v0058_000.yaml, hash: 'sha256:9ce18b96906e2b5b4cd5758234129ff5e5afdb11b21cc0007ae74ae2ac6a2f2c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0058_000.markers.yaml, hash: 'sha256:e90367e11a043962ebb5040d21e7c7bd88487058c5a4704d29890802a8b8e79b'}
+  - {seq: 0, role: markers, filename: assets/KR6v0058_000.markers.yaml, hash: 'sha256:ac2e90efd29723a0422dacfee0f9f3dd778743f4507529e93dbfb776954a6b6a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 209
     - 209
   label: 譯文
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-3
     span:
-    - front
+    - body
     - 211
     - 211
   label: 一、菩提品
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-4
     span:
-    - front
+    - body
     - 217
     - 217
   label: 稱誦
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-5
     span:
-    - front
+    - body
     - 230
     - 230
   label: 一、菩提經一
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-6
     span:
-    - front
+    - body
     - 404
     - 404
   label: 二、菩提經二
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-7
     span:
-    - front
+    - body
     - 587
     - 587
   label: 三、菩提經三
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-8
     span:
-    - front
+    - body
     - 848
     - 848
   label: 四、尼拘陀經
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-9
     span:
-    - front
+    - body
     - 996
     - 996
   label: 五、長老經
@@ -119,7 +119,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-10
     span:
-    - front
+    - body
     - 1155
     - 1155
   label: 六、迦葉經
@@ -129,7 +129,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-11
     span:
-    - front
+    - body
     - 1316
     - 1316
   label: 七、巴瓦經
@@ -139,7 +139,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-12
     span:
-    - front
+    - body
     - 1439
     - 1439
   label: 八、戰勝經
@@ -149,7 +149,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-13
     span:
-    - front
+    - body
     - 1669
     - 1669
   label: 九、螺髮經
@@ -159,7 +159,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-14
     span:
-    - front
+    - body
     - 1805
     - 1805
   label: 十、婆希經
@@ -169,7 +169,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-15
     span:
-    - front
+    - body
     - 2766
     - 2766
   label: 本品總攝
@@ -179,7 +179,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-16
     span:
-    - front
+    - body
     - 2823
     - 2823
   label: 二、目真鄰陀品
@@ -189,7 +189,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-17
     span:
-    - front
+    - body
     - 2831
     - 2831
   label: 一、目真鄰陀經
@@ -199,7 +199,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-18
     span:
-    - front
+    - body
     - 3058
     - 3058
   label: 二、王經
@@ -209,7 +209,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-19
     span:
-    - front
+    - body
     - 3394
     - 3394
   label: 三、杖經
@@ -219,7 +219,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-20
     span:
-    - front
+    - body
     - 3540
     - 3540
   label: 四、供養經
@@ -229,7 +229,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-21
     span:
-    - front
+    - body
     - 3872
     - 3872
   label: 五、居士經
@@ -239,7 +239,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-22
     span:
-    - front
+    - body
     - 4014
     - 4014
   label: 六、孕婦經
@@ -249,7 +249,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-23
     span:
-    - front
+    - body
     - 4351
     - 4351
   label: 七、獨子經
@@ -259,7 +259,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-24
     span:
-    - front
+    - body
     - 4533
     - 4533
   label: 八、蘇波婆沙經
@@ -269,7 +269,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-25
     span:
-    - front
+    - body
     - 5738
     - 5738
   label: 九、毗舍佉經
@@ -279,7 +279,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-26
     span:
-    - front
+    - body
     - 5918
     - 5918
   label: 十、跋提耶經
@@ -289,7 +289,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-27
     span:
-    - front
+    - body
     - 6448
     - 6448
   label: 本品總攝
@@ -299,7 +299,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-28
     span:
-    - front
+    - body
     - 6507
     - 6507
   label: 三、難陀品
@@ -309,7 +309,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-29
     span:
-    - front
+    - body
     - 6513
     - 6513
   label: 一、業經
@@ -319,7 +319,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-30
     span:
-    - front
+    - body
     - 6634
     - 6634
   label: 二、難陀經
@@ -329,7 +329,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-31
     span:
-    - front
+    - body
     - 7555
     - 7555
   label: 三、耶輸闍經
@@ -339,7 +339,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-32
     span:
-    - front
+    - body
     - 8516
     - 8516
   label: 四、舍利弗經
@@ -349,7 +349,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-33
     span:
-    - front
+    - body
     - 8619
     - 8619
   label: 五、拘律陀經
@@ -359,7 +359,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-34
     span:
-    - front
+    - body
     - 8725
     - 8725
   label: 六、畢陵迦經
@@ -369,7 +369,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-35
     span:
-    - front
+    - body
     - 9067
     - 9067
   label: 七、迦葉經
@@ -379,7 +379,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-36
     span:
-    - front
+    - body
     - 9435
     - 9435
   label: 八、托鉢經
@@ -389,7 +389,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-37
     span:
-    - front
+    - body
     - 9831
     - 9831
   label: 九、技藝經
@@ -399,7 +399,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-38
     span:
-    - front
+    - body
     - 10205
     - 10205
   label: 十、觀世經
@@ -409,7 +409,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-39
     span:
-    - front
+    - body
     - 10503
     - 10503
   label: 本品總攝
@@ -419,7 +419,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-40
     span:
-    - front
+    - body
     - 10559
     - 10559
   label: 四、彌凱耶品
@@ -429,7 +429,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-41
     span:
-    - front
+    - body
     - 10566
     - 10566
   label: 一、彌凱耶經
@@ -439,7 +439,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-42
     span:
-    - front
+    - body
     - 11467
     - 11467
   label: 二、高慢經
@@ -449,7 +449,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-43
     span:
-    - front
+    - body
     - 11628
     - 11628
   label: 三、牧牛人經
@@ -459,7 +459,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-44
     span:
-    - front
+    - body
     - 11993
     - 11993
   label: 四、月明經
@@ -469,7 +469,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-45
     span:
-    - front
+    - body
     - 12518
     - 12518
   label: 五、象經
@@ -479,7 +479,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-46
     span:
-    - front
+    - body
     - 13163
     - 13163
   label: 六、賓頭盧經
@@ -489,7 +489,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-47
     span:
-    - front
+    - body
     - 13384
     - 13384
   label: 七、舍利弗經
@@ -499,7 +499,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-48
     span:
-    - front
+    - body
     - 13532
     - 13532
   label: 八、孫陀利經
@@ -509,7 +509,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-49
     span:
-    - front
+    - body
     - 14264
     - 14264
   label: 九、優波塞那經
@@ -519,7 +519,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-50
     span:
-    - front
+    - body
     - 14450
     - 14450
   label: 十、舍利弗經
@@ -529,7 +529,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-51
     span:
-    - front
+    - body
     - 14561
     - 14561
   label: 本品總攝
@@ -539,7 +539,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-52
     span:
-    - front
+    - body
     - 14622
     - 14622
   label: 五、蘇那長老品
@@ -549,7 +549,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-53
     span:
-    - front
+    - body
     - 14630
     - 14630
   label: 一、王經
@@ -559,7 +559,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-54
     span:
-    - front
+    - body
     - 14917
     - 14917
   label: 二、短命經
@@ -569,7 +569,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-55
     span:
-    - front
+    - body
     - 15079
     - 15079
   label: 三、癩病者經
@@ -579,7 +579,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-56
     span:
-    - front
+    - body
     - 15897
     - 15897
   label: 四、兒童經
@@ -589,7 +589,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-57
     span:
-    - front
+    - body
     - 16043
     - 16043
   label: 五、布薩經
@@ -599,7 +599,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-58
     span:
-    - front
+    - body
     - 17910
     - 17910
   label: 六、蘇那經
@@ -609,7 +609,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-59
     span:
-    - front
+    - body
     - 19137
     - 19137
   label: 七、離波多經
@@ -619,7 +619,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-60
     span:
-    - front
+    - body
     - 19269
     - 19269
   label: 八、阿難經
@@ -629,7 +629,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-61
     span:
-    - front
+    - body
     - 19507
     - 19507
   label: 九、喧嘩經
@@ -639,7 +639,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-62
     span:
-    - front
+    - body
     - 19597
     - 19597
   label: 十、槃陀經
@@ -649,7 +649,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-63
     span:
-    - front
+    - body
     - 19703
     - 19703
   label: 本品總攝
@@ -659,7 +659,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-64
     span:
-    - front
+    - body
     - 19759
     - 19759
   label: 六、生盲品
@@ -669,7 +669,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-65
     span:
-    - front
+    - body
     - 19765
     - 19765
   label: 一、捨壽經
@@ -679,7 +679,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-66
     span:
-    - front
+    - body
     - 20697
     - 20697
   label: 二、螺髮外道經
@@ -689,7 +689,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-67
     span:
-    - front
+    - body
     - 21210
     - 21210
   label: 三、審思經
@@ -699,7 +699,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-68
     span:
-    - front
+    - body
     - 21306
     - 21306
   label: 四、種種外道經（一）
@@ -709,7 +709,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-69
     span:
-    - front
+    - body
     - 22322
     - 22322
   label: 五、種種外道經（二）
@@ -719,7 +719,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-70
     span:
-    - front
+    - body
     - 23134
     - 23134
   label: 六、種種外道經（三）
@@ -729,7 +729,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-71
     span:
-    - front
+    - body
     - 23982
     - 23982
   label: 七、須菩提經
@@ -739,7 +739,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-72
     span:
-    - front
+    - body
     - 24097
     - 24097
   label: 八、妓女經
@@ -749,7 +749,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-73
     span:
-    - front
+    - body
     - 24332
     - 24332
   label: 九、極度經
@@ -759,7 +759,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-74
     span:
-    - front
+    - body
     - 24440
     - 24440
   label: 十、如來現世經
@@ -769,7 +769,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-75
     span:
-    - front
+    - body
     - 24780
     - 24780
   label: 本品總攝
@@ -779,7 +779,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-76
     span:
-    - front
+    - body
     - 24847
     - 24847
   label: 七、小品
@@ -789,7 +789,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-77
     span:
-    - front
+    - body
     - 24852
     - 24852
   label: 一、跋提經（一）
@@ -799,7 +799,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-78
     span:
-    - front
+    - body
     - 24985
     - 24985
   label: 二、跋提經（二）
@@ -809,7 +809,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-79
     span:
-    - front
+    - body
     - 25125
     - 25125
   label: 三、貪慾經（一）
@@ -819,7 +819,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-80
     span:
-    - front
+    - body
     - 25277
     - 25277
   label: 四、貪慾經（二）
@@ -829,7 +829,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-81
     span:
-    - front
+    - body
     - 25398
     - 25398
   label: 五、跋提經（三）
@@ -839,7 +839,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-82
     span:
-    - front
+    - body
     - 25596
     - 25596
   label: 六、滅愛經
@@ -849,7 +849,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-83
     span:
-    - front
+    - body
     - 25724
     - 25724
   label: 七、滅戲論經
@@ -859,7 +859,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-84
     span:
-    - front
+    - body
     - 25806
     - 25806
   label: 八、迦旃延經
@@ -869,7 +869,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-85
     span:
-    - front
+    - body
     - 25927
     - 25927
   label: 九、井水經
@@ -879,7 +879,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-86
     span:
-    - front
+    - body
     - 26276
     - 26276
   label: 十、優填經
@@ -889,7 +889,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-87
     span:
-    - front
+    - body
     - 26496
     - 26496
   label: 本品總攝
@@ -899,7 +899,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-88
     span:
-    - front
+    - body
     - 26555
     - 26555
   label: 八、波吒離村人品
@@ -909,7 +909,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-89
     span:
-    - front
+    - body
     - 26564
     - 26564
   label: 一、涅槃經（一）
@@ -919,7 +919,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-90
     span:
-    - front
+    - body
     - 26717
     - 26717
   label: 二、涅槃經（二）
@@ -929,7 +929,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-91
     span:
-    - front
+    - body
     - 26823
     - 26823
   label: 三、涅槃經（三）
@@ -939,7 +939,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-92
     span:
-    - front
+    - body
     - 26974
     - 26974
   label: 四、涅槃經（四）
@@ -949,7 +949,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-93
     span:
-    - front
+    - body
     - 27101
     - 27101
   label: 五、純陀經
@@ -959,7 +959,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-94
     span:
-    - front
+    - body
     - 28473
     - 28473
   label: 六、波吒離村人經
@@ -969,7 +969,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-95
     span:
-    - front
+    - body
     - 29948
     - 29948
   label: 七、歧路經
@@ -979,7 +979,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-96
     span:
-    - front
+    - body
     - 30264
     - 30264
   label: 八、毗捨佉經
@@ -989,7 +989,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-97
     span:
-    - front
+    - body
     - 30790
     - 30790
   label: 九、陀驃經（一）
@@ -999,7 +999,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-98
     span:
-    - front
+    - body
     - 30970
     - 30970
   label: 十、陀驃經（二）
@@ -1009,13 +1009,13 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0058_ZW_000-mulu-99
     span:
-    - front
+    - body
     - 31120
     - 31120
   label: 本品總攝
   type: mulu
   level: 1
-hash: sha256:4430f6e156ee7b15c8a2093a6441c5a7fc592ce258dc390f3b910203f79aca4f
+hash: sha256:05af3e85b25bb92f4a0daaa0065c210b83a8fa27582327c64f76014588b12451
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
